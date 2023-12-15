@@ -7,7 +7,7 @@
 # Installation
 + clone
 ```bash
-git clone https://github.com/Kourva/TextToSpeechBot && cd TextToSpeechBot
+git clone https://github.com/bot-developer03/Text-To-SpeechBot && cd Text-To-SpeechBot
 ```
 + requirements
 ```bash
